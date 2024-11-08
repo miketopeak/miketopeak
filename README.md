@@ -1,7 +1,8 @@
 ![gitartwork](gitartwork.svg)
 # <h3 align="center"> About Me </h3>
 
-Full Stack Developer with over 8 years of professional experience in software development, focusing on React, Next and Node. Proficient in all aspects of the development process, from requirement gathering and design to deployment and maintenance. Skilled in designing and building scalable and maintainable applications using modern technologies and best practices. Passionate about working in a fast-paced, collaborative environment and staying up to date with the latest industry trends.
+Creative web developer with a proven ability to adapt in both self-starting and collaborative environments while staying focused on achieving high-quality results under strict deadlines.
+Committed to delivering visually stunning and user-friendly websites by leveraging expertise in coding and design principles.
 
 ## <h3 align="center"> Skill Set </h3>
 
