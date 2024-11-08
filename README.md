@@ -2,7 +2,7 @@
 # <h3 align="center"> About Me </h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="handshake" align="right" width="150px" height="150px" />
-Full Stack Developer with over 8 years of professional experience in software development, focusing on React, Next and Node. Proficient in all aspects of the development process, from requirement gathering and design to deployment and maintenance. Committed to delivering visually stunning and user-friendly websites by leveraging expertise in coding and design principles.
+Full Stack Developer with over 8 years of professional experience in software development, focusing on React, Next and Node. Proficient in all aspects of the development process, from requirement gathering and design to deployment and maintenance. Committed to delivering visually stunning and user-friendly websites by leveraging expertise in coding and design principles. Let's create something great together!
 
 ## <h3 align="center"> Skill Set </h3>
 
