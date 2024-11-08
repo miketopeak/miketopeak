@@ -1,8 +1,8 @@
 ![gitartwork](gitartwork.svg)
 # <h3 align="center"> About Me </h3>
 
-Creative web developer with a proven ability to adapt in both self-starting and collaborative environments while staying focused on achieving high-quality results under strict deadlines.
-Committed to delivering visually stunning and user-friendly websites by leveraging expertise in coding and design principles.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat.png" alt="Cat" align="right" width="150px" height="150px" />
+Full Stack Developer with over 8 years of professional experience in software development, focusing on React, Next and Node. Proficient in all aspects of the development process, from requirement gathering and design to deployment and maintenance. Committed to delivering visually stunning and user-friendly websites by leveraging expertise in coding and design principles.
 
 ## <h3 align="center"> Skill Set </h3>
 
